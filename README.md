@@ -19,6 +19,7 @@ I'm a Software Developer with over Seven (7) years of experience based in Nigeri
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Typescriot](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=typescript)
 ![Yii2](https://img.shields.io/badge/-Yii2-black?style=flat-square&logo=yii)
 ![Microservices](https://img.shields.io/badge/-Microservices-black?style=flat-square&logo=)
 
